@@ -2,3 +2,5 @@
 Hello there!
 
 This is a change that I want to commit!
+
+This is another change
